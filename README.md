@@ -1,3 +1,4 @@
-# metadatadog
-<h1>The Website</h1>
-<p>This is where I'll back up all my code<p/>
+<h1 style="font-size:300%;">Metadatadog</h1>
+<p style="font-size:160%;">Updates to the site.</p>  
+<a href="http://metadatadog.com/">Metadatadog.com</a>
+      
